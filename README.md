@@ -2,7 +2,7 @@
 
 ## Description
 
-- First web development project
-- Simple food review website using plain HTML/CSS/Js
+- First web development project back in 2019
+- Simple food review website using plain HTML/CSS/JS
 
 
